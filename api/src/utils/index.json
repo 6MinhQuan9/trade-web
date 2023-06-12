@@ -1,0 +1,12 @@
+{
+  "firebase": {
+    "apiKey": "AIzaSyDsB5GfBRUDc-Jymm45O8mFggf6EGEZooo",
+    "authDomain": "bigdeal-e7cdc.firebaseapp.com",
+    "projectId": "bigdeal-e7cdc",
+    "storageBucket": "bigdeal-e7cdc.appspot.com",
+    "messagingSenderId": "683233748928",
+    "appId": "1:683233748928:web:229bf6b44ee053bd004a25",
+    "measurementId": "G-EGKRNXP8RW",
+    "databaseURL": "https://bigdeal-e7cdc-default-rtdb.firebaseio.com"
+  }
+}
